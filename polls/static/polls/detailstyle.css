@@ -1,16 +1,11 @@
 h1{
-    font-family: "Verdana", Arial, sans-serif
-}
-
-li a{
     font-family: "Verdana", Arial, sans-serif;
 }
 
-li a {
-    color: green;
+label{
 
+    font-family: "Verdana", Arial, sans-serif;
 }
-
 body {
     background: white url("images/Bluebackground.jpg") repeat;
 }

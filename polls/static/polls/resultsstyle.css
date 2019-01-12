@@ -1,0 +1,23 @@
+
+body {
+    background: white url("images/Bluebackground.jpg") repeat;
+}
+ul{
+    color: black;
+    font-family: "Verdana", Arial, sans-serif;
+}
+h1{
+    font-family: "Verdana", Arial, sans-serif;
+}
+a:link, a:visited {
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: blue;
+}
